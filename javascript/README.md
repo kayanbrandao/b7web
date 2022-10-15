@@ -11,9 +11,9 @@ Conteúdo do curso de JavaScript.
 -   DOM ✅
 -   Manipulação, Arrow e Ajax ✅
 -   Requisições e assíncronismo ✅
--   Projeto: Compra de Pizzas
+-   Projeto: Compra de Pizzas ✅
 -   Questionário Prático ✅
--   Projeto: Urna Eletrônica
+-   Projeto: Urna Eletrônica ✅
 -   Projeto: Slidshow
 -   Projeto: Validador de Formulários
 -   Desafio 7 projetos em 7 dias
