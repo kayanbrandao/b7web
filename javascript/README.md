@@ -14,7 +14,7 @@ Conteúdo do curso de JavaScript.
 - Projeto: Compra de Pizzas ✅
 - Questionário Prático ✅
 - Projeto: Urna Eletrônica ✅
-- Projeto: Slidshow
+- Projeto: Slidshow ✅
 - Projeto: Validador de Formulários
 - Desafio 7 projetos em 7 dias
   - Bateria
